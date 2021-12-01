@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+*header{
+    height: 100vh;
+}
+.navbar-style{
+    box-shadow: 0 5px 10px #efefef;
+}
+.logo{
+    height: 48px;
+    padding: 2px 10px;
+}
+.icon-bar{
+    background: darkgreen;
+}
+li a{
+    color: darkgreen;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+a.btn{
+    margin: 30px 10px;
+    width: 150px;
+    padding: 10px;
+    border-radius: 20px;
+}
+a.btn-first{
+  background-color: GREEN;
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+a.btn-second{
+    background: transparent;
+    border: 1px solid darkgreen;
+    color: #333;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+a.btn:hover{
+    background: darkgreen;
+    border: none;
+    color: white;
+    box-shadow: 5px 5px 10px #999;
+    transition: 0.3s;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.backgroundimg{
+    background-image: url('https://scontent.fcrk3-2.fna.fbcdn.net/v/t1.15752-9/259461600_1339158066519126_8741275762130876204_n.jpg?_nc_cat=101&ccb=1-5&_nc_sid=ae9488&_nc_eui2=AeE2DHK0U8Yb5_J4UAX9VH8NhXN9aIp6Y3iFc31oinpjeAekjlZT4PmN1vOT5p0zYbbtEAodwk2YIUXPeB7vKlUe&_nc_ohc=4z0I7QgUdDQAX_dnpWo&_nc_ht=scontent.fcrk3-2.fna&oh=5f26dea8bf7139421aeb05eb591d6d70&oe=61CB2064');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-attachment: fixed;
+}
+.contain{
+    font-size: large;
+}
+.h1{
+color: linen;
+font-family: cursive;
+font-size: large;
+}
+div.q{
+    background-color: ivory;
+    size:100px;
+}
+img{
+    size: 50px;
+
+}
